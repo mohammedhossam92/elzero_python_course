@@ -1,0 +1,7 @@
+error while importing a module like unresolved import 
+can be solved by:
+1- open setting.json
+2- after python.pythonpath : 
+3- add the line
+python.autocomplete.extrapaths:["the path goes here"]
+-------------------------------------------------------------
